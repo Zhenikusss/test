@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    // overflow: hidden;
+}
+body {
+    overflow: auto;
+}
+#main {
+    height: 100%;
+    position: absolute;
+    width: 100%;
+}
